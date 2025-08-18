@@ -9,7 +9,6 @@ const messages = [
   "[MOON.exe] Executing recursive overwrite...",
   "[SYSTEM] //:override::granted",
   "[SYSTEM] Continue? Y/N
-  "N"
   "[ERROR] You can't stop it.",
   "[WARNING] He sees you.",
   "[MOON.exe] █ MIMIC UPLINK ESTABLISHED █"
